@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/piyush-kaushik24/news-homepage)
-- Live Site URL: [News homepage]()
+- Live Site URL: [News homepage](https://news-homepage-ndbb.vercel.app/)
 
 ## My process
 
