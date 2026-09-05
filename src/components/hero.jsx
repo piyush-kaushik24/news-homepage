@@ -20,8 +20,8 @@ export default function Hero() {
             really fulfilling its promise?
           </p>
 
-          <button className="bg-soft-red text-lg font-bold px-6 py-2 hover:bg-very-dark-blue hover:text-white ">
-            <a href="/article">READ MORE</a>
+          <button type="button" className="bg-soft-red text-lg font-bold px-6 py-2 hover:bg-very-dark-blue hover:text-white ">
+            READ MORE
           </button>
         </div>
       </div>
